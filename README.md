@@ -25,6 +25,7 @@ A comprehensive natural language processing (NLP) repository containing automate
 1. **Language:** Python
 2. **Data Processing & Web Scraping:** Pandas, NumPy, BeautifulSoup, Requests
 3. **Deployment:** Flask
+
 (Note: Specific machine learning and deep learning frameworks are detailed in the model comparison table below).
 
 ---
